@@ -1,0 +1,18 @@
+ul.misha_gallery_mtb.ui-sortable {
+    display: flex;
+}
+.misha_gallery_mtb img{
+  width: 100px;
+  height: 100px;
+}
+
+.author_image {
+    width: 100px;
+    height: 100px;
+}
+
+.author_image img{
+  width: 100% !important;
+  height: 100% !important;;
+  object-fit: cover;
+}
